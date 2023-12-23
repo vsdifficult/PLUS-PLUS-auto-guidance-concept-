@@ -1,3 +1,6 @@
+```
+LIB: https://github.com/SFML/SFML.git
+```
 The concept of auto-targeting a character in a C++ game can be implemented using algorithms and features that will allow you to continuously track the target and perform movements in its direction. Here are examples of steps to implement the concept of auto-targeting a character:
 
 1. Determining the target: first you need to determine what the target is for auto-targeting. The target can be another character, object, or location on the map.
